@@ -1,5 +1,5 @@
 # forbes-2022-Analysis
-# An EDA project using python and PowerBI to analyze data
+# An EDA project using python to analyze data
 
 By Afolayan Ayomide
 
